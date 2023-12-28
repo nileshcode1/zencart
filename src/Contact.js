@@ -2,9 +2,9 @@ import styled from "styled-components";
 
 const Contact = () => {
 
- return <Wrapper>
+ return 
   <h1>ContactPage</h1>
- </Wrapper>
+
 
 
   const Wrapper = styled.section`
